@@ -1,0 +1,51 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html>
+<head>
+	<title>用户管理</title>
+</head>
+<body>
+<table class="table table-striped">
+  <caption><h2>学生管理</h2></caption>
+  <thead>
+    <tr>
+      <th>       </th>
+      <th>       </th>
+      <th>用户ID</th>
+      <th>用户姓名</th>
+      <th>用户系部</th>
+      <th>用户类型</th>
+      <th>操作</th>
+    </tr>
+  </thead>
+  <tbody>
+    <volist name='data' id='vol'>
+    <tr>
+      <td>         </td>
+      <td>         </td>
+      <td>{$vol.id}</td>
+      <td>{$vol.username}</td>
+      <td>{$vol.department}</td>
+      <td>学生</td>
+      <td><a class="btn btn-default" href="__CONTROLLER__/editUser?id={$vol.id}&&type=0" role="button">修改</a>
+      <a class="btn btn-primary" href="__CONTROLLER__/del?id={$vol.id}&&type=0" role="button">删除</a></td>
+    </tr>
+  </volist>
+    
+  </tbody>
+</table>
+
+<center>
+<ul class="pagination" >
+    <li><a href="{$show}">&laquo;</a></li>
+    <li class="active"><a href="#">1</a></li>
+    <li class="disabled"><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+    <li><a href="#">&raquo;</a></li>
+</ul>
+</center>
+
+</body>
+</html>

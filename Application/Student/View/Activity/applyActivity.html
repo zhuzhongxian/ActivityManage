@@ -1,0 +1,45 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+            <form role="form" action="__CONTROLLER__/apply/" method="post"  enctype="multipart/form-data" >
+                <h1>活动申请</h1>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">活动名称</label><input  class="form-control" id="exampleInputEmail1" name="a_name"/>
+                </div>
+                <div class="form-group" role="form">
+                    <label for="exampleInputPassword1">活动地点</label><input  class="form-control" id="exampleInputPassword1" name="a_place" />
+                    <input type="hidden"  class="form-control"  value="{$Think.session.id}" name="a_admin_id"/>
+                </div>
+                        <div class="form-group">
+                            <label for="name">承办组织</label>
+                            <select class="form-control" name="a_org_id">
+                                <volist name="data" id="vol">
+                                    <option value="{$vol.org_id}" >{$vol.org_name}</option>
+                                </volist>
+                            </select>
+                            <label for="name">活动简介</label>
+                            <textarea class="form-control" rows="3" name="a_describe"></textarea>
+                        </div>
+                <div class="form-group">
+                    <label >活动海报</label><input type="file"  name="a_img_url" id="a_img_url"/>
+                    <label >提交活动申请书</label><input type="file"  name="a_application_url" id="a_application_url"/>
+
+                </div>
+                <button type="submit" class="btn btn-default">提交申请</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+</body>
+</html>

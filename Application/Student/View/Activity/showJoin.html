@@ -1,0 +1,31 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table class="table table-striped">
+    <h1>已报名的活动</h1>
+    <thead>
+    <tr>
+        <th>活动编号</th>
+        <th>活动名称</th>
+        <th>活动地点</th>
+        <th>活动描述</th>
+    </tr>
+    </thead>
+    <volist name="data" id="vol">
+    <tbody>
+    <tr>
+        <td>{$vol.a_id}</td>
+        <td>{$vol.a_name}</td>
+        <td>{$vol.a_place}</td>
+        <td>{$vol.a_describe}</td>
+    </tr>
+    </tbody>
+    </volist>
+</table>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="row" >
+    <volist name='data' id='vol'>
+    <div class="col-sm-6 col-md-3" margin="100px 50px">
+        <div class="thumbnail" >
+            <img src="__PUBLIC__/activity/img/{$vol.a_img_url}">
+            <div class="caption">
+
+                <h3>{$vol.a_name}</h3>
+                <p>{$vol.organization}</p>
+                <p>
+                    <a href="__CONTROLLER__/pass?id={$vol.a_id}" class="btn btn-primary" role="button">
+                        通过审核
+                    </a>
+                    <a href="__CONTROLLER__/downloads?url={$vol.a_application_url}"  class="btn btn-default" role="button">
+                        下载申请文档
+                    </a>
+                    <a href="__CONTROLLER__/reject?id={$vol.a_id}" class="btn btn-primary" role="button">
+                        不合格
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+    </volist>
+</div>
+</body>
+</html>

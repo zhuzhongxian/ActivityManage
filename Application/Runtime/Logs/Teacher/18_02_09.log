@@ -1,0 +1,229 @@
+[ 2018-02-09T20:48:20+08:00 ] ::1 /paper/index.php/Teacher/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+ERR: 1146:Table 'demo.paper_paper_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `paper_paper_student`
+ERR: 1146:Table 'demo.paper_paper_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `paper_paper_student`
+
+[ 2018-02-09T20:52:07+08:00 ] ::1 /paper/index.php/Teacher/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-02-09T20:53:30+08:00 ] ::1 /paper/index.php/Teacher/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0158s ]
+SQL: SELECT * FROM `paper_student` WHERE ( id = '' ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2018-02-09T20:53:42+08:00 ] ::1 /paper/index.php/Teacher/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `paper_student` WHERE ( id = '' ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011019s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011081s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2018-02-09T20:53:44+08:00 ] ::1 /paper/index.php/Teacher/Presentation/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0174s ]
+SQL: SELECT * FROM `paper_student` WHERE ( id = '' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\paper\Application\Teacher\Controller\PresentationController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\paper\Application\Teacher\Controller\PresentationController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\paper\Application\Teacher\Controller\PresentationController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\paper\Application\Teacher\Controller\PresentationController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010130s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2018-02-09T20:53:45+08:00 ] ::1 /paper/index.php/Teacher/Defense/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `paper_student` WHERE ( id = '' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\paper\Application\Teacher\Controller\DefenseController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\paper\Application\Teacher\Controller\DefenseController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\paper\Application\Teacher\Controller\DefenseController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\paper\Application\Teacher\Controller\DefenseController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2018-02-09T20:53:47+08:00 ] ::1 /paper/index.php/Teacher/Paper/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `paper_student` WHERE ( id = '' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\paper\Application\Teacher\Controller\PaperController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\paper\Application\Teacher\Controller\PaperController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\paper\Application\Teacher\Controller\PaperController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\paper\Application\Teacher\Controller\PaperController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2018-02-09T20:53:48+08:00 ] ::1 /paper/index.php/Teacher/ResultsDefense/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `paper_student` WHERE ( id = '' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\paper\Application\Teacher\Controller\ResultsDefenseController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\paper\Application\Teacher\Controller\ResultsDefenseController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\paper\Application\Teacher\Controller\ResultsDefenseController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\paper\Application\Teacher\Controller\ResultsDefenseController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-02-09T20:53:50+08:00 ] ::1 /paper/index.php/Teacher/Results/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `paper_student` WHERE ( id = '' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\paper\Application\Teacher\Controller\ResultsController.class.php 第 20 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\paper\Application\Teacher\Controller\ResultsController.class.php 第 20 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\paper\Application\Teacher\Controller\ResultsController.class.php 第 20 行.
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\paper\Application\Teacher\Controller\ResultsController.class.php 第 20 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2018-02-09T20:56:25+08:00 ] ::1 /paper/index.php/Teacher/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `paper_student` WHERE ( id = '' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 2 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 3 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined offset: 4 D:\phpStudy\WWW\paper\Application\Teacher\Controller\IndexController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+

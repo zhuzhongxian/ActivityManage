@@ -1,0 +1,35 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+            <table class="table table-hover">
+                <volist name="data" id="vol">
+                <h1>未通过审核的活动</h1>
+                <thead>
+                <tr>
+                    <th>活动编号</th>
+                    <th>活动名称</th>
+                    <th>审核教师</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>{$vol.a_id}</td>
+                    <td>{$vol.a_name}</td>
+                    <td>{$vol.teacher}</td>
+                </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

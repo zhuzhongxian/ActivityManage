@@ -1,0 +1,25 @@
+[ 2018-03-07T19:14:07+08:00 ] ::1 /paper/index.php/Student/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+
+[ 2018-03-07T19:14:07+08:00 ] ::1 /paper/index.php/Student/login/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2018-03-07T19:14:11+08:00 ] ::1 /paper/index.php/Student/Login/Login_check?kind=paper_student
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2018-03-07T19:14:28+08:00 ] ::1 /paper/index.php/Student/Login/Login_check?kind=paper_student
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2018-03-07T19:14:30+08:00 ] ::1 /paper/index.php/Student/Student/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+

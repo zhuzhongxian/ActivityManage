@@ -1,0 +1,1313 @@
+[ 2018-02-19T18:58:51+08:00 ] ::1 /paper/index.php/Leader/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000780s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000869s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005772s ]
+
+[ 2018-02-19T18:58:52+08:00 ] ::1 /paper/index.php/Leader/login/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+
+[ 2018-02-19T18:59:19+08:00 ] ::1 /paper/index.php/Leader/login/logincheck.html?username=1630090133&password=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+SQL: SHOW COLUMNS FROM `paper_leader` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `paper_leader` WHERE `id` = '1630090133' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `paper_system` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `paper_system` WHERE `id` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001044s ]
+
+[ 2018-02-19T18:59:20+08:00 ] ::1 /paper/index.php/Leader/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001785s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2018-02-19T18:59:31+08:00 ] ::1 /paper/index.php/Leader/Title/title.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001101s ]
+
+[ 2018-02-19T18:59:46+08:00 ] ::1 /paper/index.php/Leader/Student/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013711s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2018-02-19T19:00:02+08:00 ] ::1 /paper/index.php/Leader/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000867s ]
+
+[ 2018-02-19T19:00:04+08:00 ] ::1 /paper/index.php/Leader/Title/title.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001133s ]
+
+[ 2018-02-19T19:01:03+08:00 ] ::1 /paper/index.php/Leader/Title/title.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2018-02-19T19:01:05+08:00 ] ::1 /paper/index.php/Leader/Title/title/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2018-02-19T19:01:07+08:00 ] ::1 /paper/index.php/Leader/Title/title/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010542s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2018-02-19T19:01:11+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-02-19T19:02:12+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013409s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2018-02-19T19:02:40+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2018-02-19T19:02:42+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0072s ]
+NOTIC: [8] Undefined index: id D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 9 行.
+NOTIC: [8] Undefined index: status D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 10 行.
+SQL: UPDATE `paper_student` SET `topic_state2`=NULL WHERE `id` = null [ RunTime:0.0014s ]
+SQL: SELECT * FROM `paper_student` WHERE `id` = null LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable:  D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 15 行.
+NOTIC: [8] Undefined variable:  D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 15 行.
+SQL: UPDATE `paper_student` SET `topic_state2`=NULL,`state`='3' WHERE `id` = null [ RunTime:0.0002s ]
+
+[ 2018-02-19T19:02:43+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2018-02-19T19:02:46+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0074s ]
+NOTIC: [8] Undefined index: id D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 9 行.
+NOTIC: [8] Undefined index: status D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 10 行.
+SQL: UPDATE `paper_student` SET `topic_state2`=NULL WHERE `id` = null [ RunTime:0.0002s ]
+SQL: SELECT * FROM `paper_student` WHERE `id` = null LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable:  D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 15 行.
+NOTIC: [8] Undefined variable:  D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 15 行.
+SQL: UPDATE `paper_student` SET `topic_state2`=NULL,`state`='3' WHERE `id` = null [ RunTime:0.0001s ]
+
+[ 2018-02-19T19:02:47+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011581s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2018-02-19T19:02:52+08:00 ] ::1 /paper/index.php/Leader/Student/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000672s ]
+
+[ 2018-02-19T19:02:54+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: path D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant UPLOAD_PATH - assumed 'UPLOAD_PATH' D:\phpStudy\WWW\paper\ThinkPHP\Library\Org\Net\Http.class.php 第 148 行.
+ERR: Public/upload/student/下载文件不存在！
+
+[ 2018-02-19T19:02:59+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011483s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2018-02-19T19:03:01+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0076s ]
+NOTIC: [8] Undefined index: id D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 9 行.
+NOTIC: [8] Undefined index: status D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 10 行.
+SQL: UPDATE `paper_student` SET `topic_state2`=NULL WHERE `id` = null [ RunTime:0.0002s ]
+SQL: SELECT * FROM `paper_student` WHERE `id` = null LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable:  D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 15 行.
+NOTIC: [8] Undefined variable:  D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 15 行.
+SQL: UPDATE `paper_student` SET `topic_state2`=NULL,`state`='3' WHERE `id` = null [ RunTime:0.0001s ]
+
+[ 2018-02-19T19:03:02+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0018s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001284s ]
+
+[ 2018-02-19T19:03:15+08:00 ] ::1 /paper/index.php/Leader/Title/title.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2018-02-19T19:03:18+08:00 ] ::1 /paper/index.php/Leader/Title/title/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2018-02-19T19:04:15+08:00 ] ::1 /paper/index.php/Leader/Student/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2018-02-19T19:04:17+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: path D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant UPLOAD_PATH - assumed 'UPLOAD_PATH' D:\phpStudy\WWW\paper\ThinkPHP\Library\Org\Net\Http.class.php 第 148 行.
+ERR: Public/upload/student/下载文件不存在！
+
+[ 2018-02-19T19:07:25+08:00 ] ::1 /paper/index.php/Leader/Student/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001011s ]
+
+[ 2018-02-19T19:07:26+08:00 ] ::1 /paper/index.php/Leader/Title/title.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000688s ]
+
+[ 2018-02-19T19:07:29+08:00 ] ::1 /paper/index.php/Leader/Title/title/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2018-02-19T19:07:45+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2018-02-19T19:07:49+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0108s ]
+NOTIC: [8] Undefined index: id D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 9 行.
+NOTIC: [8] Undefined index: status D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 10 行.
+SQL: UPDATE `paper_student` SET `topic_state2`=NULL WHERE `id` = null [ RunTime:0.0002s ]
+SQL: SELECT * FROM `paper_student` WHERE `id` = null LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable:  D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 15 行.
+NOTIC: [8] Undefined variable:  D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 15 行.
+SQL: UPDATE `paper_student` SET `topic_state2`=NULL,`state`='3' WHERE `id` = null [ RunTime:0.0001s ]
+
+[ 2018-02-19T19:07:50+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2018-02-19T19:09:06+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-02-19T19:09:09+08:00 ] ::1 /paper/index.php/Leader/Student/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2018-02-19T19:09:11+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2018-02-19T19:09:14+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010664s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2018-02-19T19:09:34+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0087s ]
+NOTIC: [8] Undefined index: path D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant UPLOAD_PATH - assumed 'UPLOAD_PATH' D:\phpStudy\WWW\paper\ThinkPHP\Library\Org\Net\Http.class.php 第 148 行.
+ERR: Public/upload/student/下载文件不存在！
+
+[ 2018-02-19T19:10:45+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001387s ]
+
+[ 2018-02-19T19:14:08+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001537s ]
+
+[ 2018-02-19T19:14:18+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2018-02-19T19:14:25+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0087s ]
+NOTIC: [8] Undefined index: path D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant UPLOAD_PATH - assumed 'UPLOAD_PATH' D:\phpStudy\WWW\paper\ThinkPHP\Library\Org\Net\Http.class.php 第 148 行.
+ERR: Public/upload/student/下载文件不存在！
+
+[ 2018-02-19T19:14:29+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2018-02-19T19:15:10+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015464s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2018-02-19T19:15:12+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012589s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2018-02-19T19:17:11+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013673s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2018-02-19T19:17:13+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011712s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2018-02-19T19:17:15+08:00 ] ::1 /paper/index.php/Leader/Student/revisionreview/id/1630090345/status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: student D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 25 行.
+
+[ 2018-02-19T19:17:43+08:00 ] ::1 /paper/index.php/Leader/Student/revisionreview/id/1630090345/status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0085s ]
+SQL: UPDATE `paper_student` SET `topic_state2`='1' WHERE `id` = '1630090345' [ RunTime:0.0025s ]
+SQL: SELECT * FROM `paper_student` WHERE `id` = '1630090345' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: 1 D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 28 行.
+SQL: UPDATE `paper_student` SET `topic_state2`='1',`state`='3' WHERE `id` = '1630090345' [ RunTime:0.0015s ]
+
+[ 2018-02-19T19:17:44+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2018-02-19T19:17:48+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-02-19T19:17:51+08:00 ] ::1 /paper/index.php/Leader/Student/revisionreview/id/1630090345/status/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0083s ]
+SQL: UPDATE `paper_student` SET `topic_state2`='2' WHERE `id` = '1630090345' [ RunTime:0.0019s ]
+SQL: SELECT * FROM `paper_student` WHERE `id` = '1630090345' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: 2 D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 28 行.
+SQL: UPDATE `paper_student` SET `topic_state2`='2',`state`='3' WHERE `id` = '1630090345' [ RunTime:0.0060s ]
+
+[ 2018-02-19T19:17:52+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2018-02-19T19:17:55+08:00 ] ::1 /paper/index.php/Leader/Student/auditingtitle/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2018-02-19T19:18:33+08:00 ] ::1 /paper/index.php/Leader/Title/title.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2018-02-19T19:18:38+08:00 ] ::1 /paper/index.php/Leader/Title/title/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+SQL: SHOW COLUMNS FROM `paper_name` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `paper_name` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_name` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2018-02-19T19:18:41+08:00 ] ::1 /paper/index.php/Leader/Student/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014365s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2018-02-19T19:19:46+08:00 ] ::1 /paper/index.php/Leader/Student/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001269s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+NOTIC: [8] Undefined variable: student D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 43 行.
+
+[ 2018-02-19T19:20:32+08:00 ] ::1 /paper/index.php/Leader/Student/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001106s ]
+
+[ 2018-02-19T19:20:35+08:00 ] ::1 /paper/index.php/Leader/Student/downloadfile/path/1.pptx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0082s ]
+
+[ 2018-02-19T19:20:55+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015716s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2018-02-19T19:21:02+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 2,2   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014130s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2018-02-19T19:21:04+08:00 ] ::1 /paper/index.php/Leader/Student/downloadfile/path/1.pptx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0076s ]
+
+[ 2018-02-19T19:21:11+08:00 ] ::1 /paper/index.php/Leader/Student/download/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+NOTIC: [2048] Declaration of Leader\Controller\StudentController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) D:\phpStudy\WWW\paper\Application\Leader\Controller\StudentController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `paper_student` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `paper_student` WHERE `sid` = 'r0001' ORDER BY id asc LIMIT 0,2   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `paper_student` WHERE `sid` = 'r0001' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+

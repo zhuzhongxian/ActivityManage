@@ -1,0 +1,2494 @@
+[ 2018-12-26T13:36:45+08:00 ] ::1 /ActivityManage/index.php/Student/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+
+[ 2018-12-26T13:36:45+08:00 ] ::1 /ActivityManage/index.php/Student/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2018-12-26T13:36:46+08:00 ] ::1 /ActivityManage/index.php/Student/login/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002246s ]
+
+[ 2018-12-26T13:36:51+08:00 ] ::1 /ActivityManage/index.php/Student/Login/Login_check?kind=paper_student
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2018-12-26T13:36:58+08:00 ] ::1 /ActivityManage/index.php/Student/Login/Login_check?kind=paper_student
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001962s ]
+
+[ 2018-12-26T13:36:59+08:00 ] ::1 /ActivityManage/index.php/Student/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2018-12-26T13:36:59+08:00 ] ::1 /ActivityManage/index.php/Student/Index/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:01+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2018-12-26T13:37:02+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001658s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:03+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2018-12-26T13:37:03+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:03+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2018-12-26T13:37:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+
+[ 2018-12-26T13:37:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2018-12-26T13:37:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:37:22+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:38:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2018-12-26T13:38:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:38:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:38:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:38:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:38:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:38:33+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:40:33+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2018-12-26T13:40:33+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:40:33+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:40:34+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2018-12-26T13:40:34+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:40:34+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:41:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-12-26T13:41:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:41:58+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2018-12-26T13:41:58+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:41:58+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:25+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-12-26T13:42:25+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:25+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:26+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2018-12-26T13:42:26+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:26+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2018-12-26T13:42:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2018-12-26T13:42:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:29+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2018-12-26T13:42:29+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:29+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-12-26T13:42:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001942s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2018-12-26T13:42:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:42:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000211s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001699s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:43:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2018-12-26T13:43:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:43:47+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-12-26T13:43:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2018-12-26T13:43:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:43:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:43:52+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2018-12-26T13:43:52+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:43:52+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:43:53+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2018-12-26T13:43:53+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:43:53+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:44:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2018-12-26T13:44:08+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:44:08+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:45:33+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 模板不存在:./Application/Student/View/Activity/client.html
+
+[ 2018-12-26T13:47:08+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/client
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 模板不存在:./Application/Student/View/Activity/client.html
+
+[ 2018-12-26T13:47:09+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:47:09+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:47:09+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:47:10+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2018-12-26T13:47:11+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2018-12-26T13:47:11+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:47:11+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:47:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:47:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:47:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2018-12-26T13:47:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:47:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:49:55+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-12-26T13:49:55+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:49:55+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:49:55+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2018-12-26T13:49:55+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:49:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:49:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2018-12-26T13:49:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:49:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:52:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:52:24+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:52:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2018-12-26T13:52:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:52:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:53:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2018-12-26T13:53:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:53:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:53:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-12-26T13:55:30+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-12-26T13:55:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:55:34+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2018-12-26T13:55:36+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:55:36+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:55:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-12-26T13:55:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:55:42+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2018-12-26T13:55:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:55:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:35+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-12-26T13:57:35+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:35+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:40+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2018-12-26T13:57:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2018-12-26T13:57:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001870s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2018-12-26T13:57:45+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006697s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:45+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2018-12-26T13:57:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005360s ]
+
+[ 2018-12-26T13:57:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:57:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:59:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2018-12-26T13:59:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:59:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:59:54+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2018-12-26T13:59:54+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2018-12-26T13:59:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T13:59:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:00:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2018-12-26T14:00:22+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:00:35+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-12-26T14:00:35+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:00:35+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:00:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006210s ]
+
+[ 2018-12-26T14:00:42+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:00:42+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:00:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2018-12-26T14:00:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:00:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:01:03+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002283s ]
+
+[ 2018-12-26T14:01:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2018-12-26T14:02:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2018-12-26T14:02:05+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:02:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2018-12-26T14:02:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:02:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:02:13+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2018-12-26T14:02:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:02:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2018-12-26T14:03:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2018-12-26T14:03:29+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2018-12-26T14:03:53+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:03:53+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:03:54+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-12-26T14:03:54+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:03:54+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:04:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-12-26T14:04:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:04:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:04:13+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2018-12-26T14:04:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:05:38+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2018-12-26T14:06:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-12-26T14:13:01+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-12-26T14:13:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2018-12-26T14:14:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2018-12-26T14:18:38+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 1364:Field 'a_org_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `activity` (`a_name`,`a_place`,`a_admin_id`,`a_describe`) VALUES ('','','1','')
+
+[ 2018-12-26T14:18:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:18:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:19:17+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 1364:Field 'a_org_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `activity` (`a_name`,`a_place`,`a_admin_id`,`a_describe`) VALUES ('毕业典礼','操场','1','毕业')
+
+[ 2018-12-26T14:21:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2018-12-26T14:21:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:21:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:21:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2018-12-26T14:23:05+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2018-12-26T14:23:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2018-12-26T14:23:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-12-26T14:23:17+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:23:17+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:23:17+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2018-12-26T14:23:17+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:23:17+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:23:20+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2018-12-26T14:23:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:23:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:24:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2018-12-26T14:24:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:24:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:24:22+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-12-26T14:24:25+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:24:25+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:24:45+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-12-26T14:24:45+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:24:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:24:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+
+[ 2018-12-26T14:24:50+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:24:50+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:25:17+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2018-12-26T14:25:43+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2018-12-26T14:26:47+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:26:47+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:26:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2018-12-26T14:26:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:26:48+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:27:08+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-12-26T14:32:58+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:32:58+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:32:59+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-12-26T14:32:59+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:33:43+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-12-26T14:33:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:34:20+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 1364:Field 'a_name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `activity` (`a_img_url`,`a_application_url`) VALUES ('./Public/upload/7','./Public/upload/7')
+
+[ 2018-12-26T14:34:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001397s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:34:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:36:30+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2018-12-26T14:36:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:36:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:37:00+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>$a_id )' at line 1
+ [ SQL语句 ] : UPDATE `activity` SET `a_img_url`='./Public/upload/8',`a_application_url`='./Public/upload/8' WHERE ( a_id=>$a_id )
+
+[ 2018-12-26T14:37:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:37:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:37:30+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2018-12-26T14:37:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:37:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:37:57+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2018-12-26T14:38:52+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:38:52+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:38:53+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-12-26T14:39:05+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:39:05+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:40:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-12-26T14:40:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:40:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:40:21+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>10 )' at line 1
+ [ SQL语句 ] : UPDATE `activity` SET `a_img_url`='./Public/upload/13',`a_application_url`='./Public/upload/13' WHERE ( a_id=>10 )
+
+[ 2018-12-26T14:45:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:45:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:45:08+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=>10 )' at line 1
+ [ SQL语句 ] : UPDATE `activity` SET `a_img_url`='14.png',`a_application_url`='14.docx' WHERE ( a_id=>10 )
+
+[ 2018-12-26T14:45:21+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:45:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2018-12-26T14:45:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:46:42+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-12-26T14:46:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:46:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:46:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:46:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2018-12-26T14:46:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2018-12-26T14:46:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:46:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:46:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-12-26T14:46:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:46:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:47:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-12-26T14:48:42+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:48:42+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:48:44+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2018-12-26T14:49:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:49:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:49:20+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-12-26T14:50:10+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:50:10+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:50:11+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2018-12-26T14:51:22+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:51:22+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:51:30+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-12-26T14:51:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:51:41+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:52:02+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-12-26T14:52:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:52:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:52:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-12-26T14:53:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:53:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:53:24+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2018-12-26T14:53:24+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:53:24+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:53:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-12-26T14:53:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:53:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:53:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-12-26T14:53:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:53:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:54:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:54:21+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-12-26T14:54:21+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:54:21+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:54:24+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2018-12-26T14:54:24+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:54:24+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:54:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2018-12-26T14:54:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:54:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2018-12-26T14:54:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:54:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:56:56+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2018-12-26T14:56:57+08:00 ] ::1 /ActivityManage/index.php/Student/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2018-12-26T14:56:57+08:00 ] ::1 /ActivityManage/index.php/Student/Index/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:56:57+08:00 ] ::1 /ActivityManage/index.php/Student/Index/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:57:00+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-12-26T14:57:00+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:57:00+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:57:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2018-12-26T14:57:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:57:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:58:10+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2018-12-26T14:58:10+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:58:10+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:58:26+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 非法操作:join
+
+[ 2018-12-26T14:58:26+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 非法操作:join
+
+[ 2018-12-26T14:58:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:58:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:59:29+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-12-26T14:59:29+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T14:59:29+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:00:10+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/apply/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2018-12-26T15:00:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2018-12-26T15:00:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:00:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:00:21+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2018-12-26T15:00:21+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000779s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003644s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:00:21+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:01:38+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2018-12-26T15:01:38+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:01:38+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:01:39+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2018-12-26T15:01:39+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2018-12-26T15:01:42+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2018-12-26T15:01:42+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:01:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2018-12-26T15:01:46+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2018-12-26T15:08:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001529s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2018-12-26T15:08:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:31+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2018-12-26T15:08:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:32+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:33+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join?a_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2018-12-26T15:08:35+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:37+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join?a_id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2018-12-26T15:08:38+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:08:38+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:09:22+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2018-12-26T15:09:22+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:09:23+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:10:59+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2018-12-26T15:10:59+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:10:59+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:11:00+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join?a_id=1&&u_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+
+[ 2018-12-26T15:11:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:11:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:02+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2018-12-26T15:12:02+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:02+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join?a_id=3&&u_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2018-12-26T15:12:05+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:11+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+
+[ 2018-12-26T15:12:11+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2018-12-26T15:12:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005230s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2018-12-26T15:12:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:13+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:58+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:12:58+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:00+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join?a_id=24&&u_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2018-12-26T15:13:01+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2018-12-26T15:13:01+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:01+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2018-12-26T15:13:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:04+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:05+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-12-26T15:13:05+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:05+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2018-12-26T15:13:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:06+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2018-12-26T15:13:07+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:08+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2018-12-26T15:13:08+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:08+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:11+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/applyActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2018-12-26T15:13:11+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2018-12-26T15:13:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:12+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:15+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2018-12-26T15:13:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2018-12-26T15:13:16+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:18+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join?a_id=25&&u_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2018-12-26T15:13:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2018-12-26T15:13:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:19+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:26+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-12-26T15:13:26+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2018-12-26T15:13:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:27+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2018-12-26T15:13:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2018-12-26T15:13:28+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:49+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-12-26T15:13:49+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:49+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:50+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2018-12-26T15:13:50+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:50+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:50+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2018-12-26T15:13:50+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:50+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:52+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/join?a_id=24&&u_id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2018-12-26T15:13:53+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2018-12-26T15:13:53+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:55+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2018-12-26T15:13:55+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:13:55+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:14:13+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/showJoin?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2018-12-26T15:14:13+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:14:13+08:00 ] ::1 /ActivityManage/index.php/Student/Activity/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:19:53+08:00 ] ::1 /ActivityManage/index.php/Student/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2018-12-26T15:19:53+08:00 ] ::1 /ActivityManage/index.php/Student/Index/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 非法操作:js
+
+[ 2018-12-26T15:19:53+08:00 ] ::1 /ActivityManage/index.php/Student/Index/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 非法操作:js
+

@@ -1,0 +1,57 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html>
+<head>
+	<title>导入用户</title>
+</head>
+<body>
+	
+	<form action="__CONTROLLER__/intoUser/" enctype="multipart/form-data" method="post" class="form-inline" role="form" style=" padding: 50px 80px 10px 350px" >
+  <!-- <div class="form-group">
+    <label class="sr-only" for="name">名称</label>
+    <input type="text" class="form-control" id="name" placeholder="请输入名称">
+  </div> -->
+  <div class="form-group">
+    <label class="sr-only" for="inputfile">文件输入</label>
+    <input  type="file" name="file_stu" />
+  </div>
+  <input type="submit"  class="btn btn-default" value="导入" />
+</form>
+
+<p>
+  <a href="__ROOT__/index.php/Admin/Index/downloads/name/user" class="btn btn-primary btn-lg btn-block" role="button" >下载用户数据模版</a>
+</p>
+
+<table class="table table-striped">
+  <caption><h2>本次导入信息</h2></caption>
+  <thead>
+    <tr>
+      <th>       </th>
+      <th>用户名</th>
+      <th>联系电话</th>
+      <th>用户类型</th>
+    
+    </tr>
+  </thead>
+  <tbody>
+    <volist name='data' id='vol'>
+    <tr>
+      <td>         </td>
+      <td>{$vol.username}</td>
+      <td>{$vol.tel}</td>
+      <td>
+        <switch name='vol.type' >
+        <case value='0'>普通用户</case>
+        <case value='1'>教师</case>
+        <case value='2'>管理员</case>
+        <default />
+        </switch>
+      </td>
+      
+    </tr>
+  </volist>
+  </tbody>
+</table>
+
+</body>
+</html>

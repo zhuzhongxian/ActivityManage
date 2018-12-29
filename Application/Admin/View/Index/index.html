@@ -1,0 +1,44 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html>
+<head>
+	<title>首页</title>
+</head>
+<body>
+<!-- <span class="glyphicon glyphicon-home" style="color: rgb(117, 51, 89); font-size: 30px; padding: 90px 0px 0px 50px">上传Excel文件的顺序为，先上传系部数据，再上传用户数据，最后上传导师关系！</span> -->
+
+
+<div class="panel panel-success" style="padding: 60px 50px 10px;">
+    <div class="panel-heading" >
+        <h1 class="panel-title" style="padding: 60px 50px 10px;"  font-size: 30px;> <span  style="color: rgb(74, 0, 0); font-size: 30px; padding: 90px 0px 0px -5px">活动管理</span> </h1>
+    </div>
+  <span class="glyphicon glyphicon-home" style=" rgb(169, 236, 216); font-size:20px; padding: 90px 0px 0px 50px">点击左侧导航栏进行操作</span>
+</div>
+
+
+
+
+ <div class="container" style="padding: 100px 50px 10px;" >
+    
+   
+    <button type="button" class="btn btn-warning popover-toggle"
+            title="系统使用说明" data-container="body"
+            data-toggle="popover" data-placement="right"
+            data-content="上传Excel文件按顺序">
+        系统使用说明
+    </button><br><br><br><br><br><br>
+   
+    <script>
+$(function () { $('.popover-show').popover('show');});
+        $(function () { $('.popover-hide').popover('hide');});
+        $(function () { $('.popover-destroy').popover('destroy');});
+        $(function () { $('.popover-toggle').popover('toggle');});
+        $(function () { $(".popover-options a").popover({html : true });});
+</script>
+</div>
+
+        
+
+
+</body>
+</html>

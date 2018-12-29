@@ -1,0 +1,63 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html>
+<head>
+	<title>修改用户信息</title>
+</head>
+<div class="page-header" style=" padding: 30px 90px 0px 325px">
+   <h2>修改信息</h2>
+</div>
+	<form class="form-horizontal"  role="form" style="padding: 100px 100px 10px"  method="post" action="__CONTROLLER__/editUser/type/{$data.type}">
+
+	<div class="form-group" style="  padding: 0px 150px 10px 100px">
+    <label for="disabledTextInput" class="col-sm-2 control-label"  >用户ID</label>
+    <div class="col-sm-10">
+      <input type="text" id="disabledTextInput" class="form-control"  placeholder="{$data.id}"  >
+    </div>
+  </div>
+
+  <input type="hidden" name="password1" value="{$data.password}">
+  <input type="hidden" name="type" value="{$data.type}">
+
+
+  <div class="form-group" style="  padding: 0px 150px 10px 100px">
+    <label for="firstname" class="col-sm-2 control-label">用户姓名</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="name" value="{$data.name}" name="name"  >
+    </div>
+  </div>
+
+  <div class="form-group" style="  padding: 0px 150px 10px 100px">
+    <label for="lastname" class="col-sm-2 control-label">用户系部</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control"  name="system" value="{$data.system}"/>
+    </div>
+  </div>
+  	
+
+  <div class="form-group" style="  padding: 0px 150px 10px 100px">
+    <label for="lastname" class="col-sm-2 control-label">更改密码</label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control"  name="password" />
+    </div>
+  </div>
+  
+  <div class="form-group" style="padding: 10px 100px 10px 220px">
+    <div class="col-sm-offset-2 col-sm-10">
+       <button type="submit" class="btn btn-primary btn-lg">确定</button>
+       <button type="reset" class="btn btn-default btn-lg">还原修改</button>
+    </div>
+  </div>
+</form>
+</body>
+<script type="text/javascript">
+  $(function () {
+    $('.btn btn btn-primary btn-lg').on('click',function(){
+      $('form').submit();
+    });
+    $('.btn btn-default btn-lg').on('click',function(){
+      $('form')[0].reset();
+    });
+  });
+</script>
+</html>

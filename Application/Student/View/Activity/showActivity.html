@@ -1,0 +1,35 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="row" >
+    <volist name='data' id='vol'>
+    <div class="col-sm-6 col-md-3" margin="100px 50px">
+        <div class="thumbnail" >
+            <img src="__PUBLIC__/activity/img/{$vol.a_img_url}">
+            <div class="caption">
+                <h3>{$vol.a_name}</h3>
+                <p>{$vol.organization}</p>
+                <p>
+                    <a href="__PUBLIC__/client.html" class="btn btn-primary" role="button">
+                        加入讨论
+                    </a>
+                    <a href="__CONTROLLER__/join?a_id={$vol.a_id}&&u_id={$Think.session.id}"  class="btn btn-default" role="button">
+                        报名活动
+                    </a>
+                    <a href="__CONTROLLER__/showDescribe?a_id={$vol.a_id}" class="btn btn-primary" role="button">
+                        查看
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+    </volist>
+</div>
+</body>
+</html>

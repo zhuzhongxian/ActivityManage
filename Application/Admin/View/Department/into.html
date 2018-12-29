@@ -1,0 +1,52 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html>
+<head>
+	<title>导入系部</title>
+</head>
+<body>
+	<form action="__CONTROLLER__/into/" enctype="multipart/form-data" method="post" class="form-inline" role="form" style=" padding: 50px 80px 10px 350px" >
+  <!-- <div class="form-group">
+    <label class="sr-only" for="name">名称</label>
+    <input type="text" class="form-control" id="name" placeholder="请输入名称">
+  </div> -->
+  <div class="form-group">
+    <label class="sr-only" for="inputfile">文件输入</label>
+    <input  type="file" name="file_stu" />
+  </div>
+  <input type="submit"  class="btn btn-default" value="导入" />
+</form>
+
+<p>
+  <a href="__ROOT__/index.php/Admin/Index/downloads/name/department" class="btn btn-primary btn-lg btn-block" role="button" >下载系部数据模版</a>
+</p>
+
+<table class="table table-striped">
+  <caption><h2>本次导入信息</h2></caption>
+  <thead>
+    <tr>
+      <th>       </th>
+      <th>       </th>
+      <th>       </th>
+      <th>系部编号</th>
+      <th>系部名称</th>
+    
+    </tr>
+  </thead>
+  <tbody>
+    <volist name='data' id='vol'>
+    <tr>
+      <td>         </td>
+      <td>         </td>
+      <td>         </td>
+      <td>{$vol.sid}</td>
+      <td>{$vol.department}</td>
+      
+    </tr>
+  </volist>
+  </tbody>
+</table>
+
+
+</body>
+</html>
