@@ -1,0 +1,57 @@
+<include file='Public/header' />
+<!DOCTYPE html>
+<html>
+<head>
+	<title>修改信息</title>
+</head>
+<body>
+	<include file='Public/header' />
+<!DOCTYPE html>
+<html>
+<head>
+	<title>修改</title>
+</head>
+<body>
+<div class="page-header" style=" padding: 30px 100px 0px 325px">
+   <h2>修改信息</h2>
+</div>
+
+	<form class="form-horizontal"  role="form" style="padding: 100px 400px 10px 0px"  method="post" action="__CONTROLLER__/edit/">
+      <input type="hidden" name="org_id" value="{$data.org_id}">
+  <input type="hidden" name="org_name1" value="{$data.org_name}">
+      <input type="hidden" name="org_describe1" value="{$data.org_describe}">
+  
+  <div class="form-group" style=" padding: 0px 0px 10px 00px">
+    <label for="lastname" class="col-sm-2 control-label">修改组织名称</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control"  name="org_name" />
+    </div>
+  </div>
+
+      <div class="form-group" style=" padding: 0px 0px 10px 00px">
+        <label for="lastname" class="col-sm-2 control-label">修改组织描述</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control"  name="org_describe" />
+        </div>
+      </div>
+  
+  <div class="form-group" style="padding: 10px 100px 10px 220px">
+    <div class="col-sm-offset-2 col-sm-10">
+       <button type="submit" class="btn btn-primary btn-lg">确定</button>
+    </div>
+  </div>
+</form>
+</body>
+<script type="text/javascript">
+  $(function () {
+    $('.btn btn btn-primary btn-lg').on('click',function(){
+      $('form').submit();
+    });
+    $('.btn btn-default btn-lg').on('click',function(){
+      $('form')[0].reset();
+    });
+  });
+</script>
+</html>
+</body>
+</html>

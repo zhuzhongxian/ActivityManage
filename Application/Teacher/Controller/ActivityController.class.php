@@ -48,7 +48,6 @@ class ActivityController extends BaseController{
         $http = new \Org\Net\Http;
         $http->download($url,$path);
     }//download
-
     /***
      * 审核不通过
      */

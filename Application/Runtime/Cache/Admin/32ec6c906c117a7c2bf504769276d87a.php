@@ -60,7 +60,7 @@
 
 					<!-- Start Sign In Form -->
 					<form action="/ActivityManage/index.php/Admin/Login/Login_check?kind='paper_system'" class="fh5co-form animate-box" data-animate-effect="fadeIn" method="post">
-						<h2>教务登录</h2>
+						<h2>管理员登录</h2>
 						<div class="form-group">
 							<label for="username" class="sr-only">用户名</label>
 							<input type="text" class="form-control" name="username" id="username" placeholder="Username" autocomplete="off">

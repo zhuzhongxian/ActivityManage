@@ -17,8 +17,7 @@ class IndexController extends BaseController {
             $session=session();
     		$post=I('post.');
     		if($post['password']){//判断是否修改密码
-    			$post['password']=md5($post['password']);//加密后截取10位做为密码
-    			//var_dump($post['password']);die;
+    			$post['password']=md5($post['password']);
     		}else{//如果没有修改就获取隐藏域中的password1原密码
     			$post['password']=$post['password1'];
     		}

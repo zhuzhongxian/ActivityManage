@@ -31,6 +31,11 @@ class OrganizationController extends BaseController {
     	if(IS_POST){
     		$post=I('post.');
     		$model=D('organization');
+            if($post['org_name']==null){
+                $post['org_name']=$post['org_name1'];
+            }else if($post['org_describe']==null){
+                $post['org_describe']=$post['org_describe1'];
+            }
     		$res=$model->save($post);
     		if($res !==false){
     			$this->success('修改成功');
@@ -39,7 +44,7 @@ class OrganizationController extends BaseController {
     		}
     	}else{
     	$id=I('get.id');
-    	$model=D('System');
+    	$model=D('organization');
     	$data=$model->find($id);
     	$this->assign('data',$data);
     	$this->show();
@@ -80,7 +85,6 @@ class OrganizationController extends BaseController {
         $highestRow = $sheet->getHighestRow();//取得总行数
         $highestColumn =$sheet->getHighestColumn(); //取得总列数
         for ($i = 2; $i <= $highestRow; $i++) {
-        //看这里看这里,前面小写的a是表中的字段名，后面的大写A是excel中位置
         $data['org_id'] =trim($objPHPExcel->getActiveSheet()->getCell("A" . $i)->getValue());
         $data['org_name'] =trim($objPHPExcel->getActiveSheet()->getCell("B" .$i)->getValue());
         $data['org_describe'] =trim($objPHPExcel->getActiveSheet()->getCell("C" .$i)->getValue());

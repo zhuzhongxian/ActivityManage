@@ -47,4 +47,30 @@ class TeacherController extends BaseController{
             $this->error('删除失败');
         }
     }//delete end
+    /***
+     * 修改教师信息
+     */
+    public function editTeacher(){
+        if(IS_POST){
+            $post=I('post.');
+            $model=D('teacher');
+            if($post['password']){//判断是否修改密码
+                $post['password']=md5($post['password']);
+            }else{//如果没有修改就获取隐藏域中的password1原密码
+                $post['password']=$post['password1'];
+            }
+            $res=$model->save($post);
+            if($res !==false){
+                $this->success('修改成功');
+            }else{
+                $this->error('修改失败');
+            }
+        }else{
+            $id=I('get.id');
+            $model=D('teacher');
+            $data=$model->find($id);
+            $this->assign('data',$data);
+            $this->show();
+        }
+    }
 }

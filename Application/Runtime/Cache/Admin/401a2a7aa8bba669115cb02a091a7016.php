@@ -114,7 +114,7 @@
       <td><?php echo ($vol["username"]); ?></td>
       <td><?php echo ($vol["tel"]); ?></td>
       <td>教师</td>
-      <td><a class="btn btn-default" href="/ActivityManage/index.php/Admin/Teacher/editUser?id=<?php echo ($vol["id"]); ?>&&type=1" role="button">修改</a>
+      <td><a class="btn btn-default" href="/ActivityManage/index.php/Admin/Teacher/editTeacher?id=<?php echo ($vol["id"]); ?>&&type=1" role="button">修改</a>
       <a class="btn btn-primary" href="/ActivityManage/index.php/Admin/Teacher/del?id=<?php echo ($vol["id"]); ?>&&type=1" role="button">删除</a></td>
     </tr><?php endforeach; endif; else: echo "" ;endif; ?>
     
